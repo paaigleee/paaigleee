@@ -17,6 +17,10 @@
 
 ---
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=твой-ник&show_icons=true&theme=default)](https://github.com/paaigleee)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=твой-ник&layout=compact&theme=default)](https://github.com/paaihleee)
+
 ## 📌 Обо мне
 
 - Вяжу игрушки 🧶
