@@ -39,7 +39,7 @@
 
 ## 📫 Контакты
 
-[![VK](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://vk.ru/paaigleee)
+[![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.ru/paaigleee)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:varyakovleva@internet.ru)
 
 
