@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Привет! Я — Варя
 
-<!--
-**paaigleee/paaigleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий фронтенд-разработчик в поиске стажировки или Junior-позиции. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Мой стек сейчас
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+## 🚀 В процессе изучения
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+## 📌 Обо мне
+
+- Вяжу игрушки 🧶
+- Увлекаюсь фотографией и модельной сферой📸
+- В коде ценю чистоту и структуру
+
+---
+
+## 🎯 В поиске
+
+Ищу стажировку или Junior-позицию, где смогу расти и учиться у опытных коллег. Открыта к новым задачам и готова вникать в детали.
+
+---
+
+## 📂 Мои проекты
+
+Закреплены ниже 👇
+
+---
+
+## 📫 Контакты
+
+[![VK](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://vk.ru/paaigleee)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:varyakovleva@internet.ru)
+
+
